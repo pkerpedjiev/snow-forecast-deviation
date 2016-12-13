@@ -1,0 +1,1 @@
+python scripts/get_forecast.py http://www.bergfex.at/soelden/wetter/berg/ http://www.bergfex.com/tauplitz/wetter/berg/ http://www.bergfex.com/tauplitz/wetter/ http://www.bergfex.com/soelden/wetter/ http://www.bergfex.at/val-thorens/wetter/ http://www.bergfex.at/val-thorens/wetter/berg --sleep 3600 > data/forecasts.tsv
